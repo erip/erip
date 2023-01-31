@@ -4,7 +4,7 @@ My name is **Elijah Rippeth** (he/him) and I'm a Computer Science PhD student at
 
 - Multilingual NLP
 - Cross-lingual transfer
-- Use-oriented research and prototyping
+- Use-inspired research and prototyping
 
 I am passionate about open-source software and try to contribute when I can. Lately I've been excited about contributing to and using
 
